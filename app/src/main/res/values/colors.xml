@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgDracula">#282a36</color>
+    <color name="greenDracula">#50fa7b</color>
+    <color name="grayDracula">#44475a</color>
+    <color name="secondaryDracula">#6272a4</color>
+</resources>
